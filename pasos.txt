@@ -1,0 +1,21 @@
+Pasos proyecto node
+
+1-crear el package.json para tener las dependencias
+npm init
+
+2- instalar express
+npm i express
+
+dependencias
+a-desarrollo
+solo se requieren mientras se crea el proyecto
+
+b-Produccion
+se requieren para el proyecto funcione
+
+3-dependencia de desarrollo (nodemon) actualiza el servidor automaticamente
+--save-dev
+
+
+4- para instalar pug
+npm install pug
